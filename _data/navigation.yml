@@ -12,7 +12,7 @@ main:
     #url: /portfolio/
 
   - title: "Bio"
-    url: /Bio/
+    url: /bio/
         
   - title: "Blog"
     url: /blog/
