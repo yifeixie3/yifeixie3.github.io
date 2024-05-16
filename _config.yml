@@ -21,7 +21,7 @@ repository               : "yifeixie3.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile-photo.png"
+  avatar           : "profile-photo.jpg"
   name             : "Yifei Xie 谢逸飞"
   pronouns         : # example: "she/her"  
   bio              : "Operational Research, Math, AI"
