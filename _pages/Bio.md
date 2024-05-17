@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in school of informatics, University of Edinburgh, 2020 - ASAP
+* Ph.D in School of Informatics, University of Edinburgh, 2020 - ASAP
   * Supervisor: Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/).
   * Topic: Building efficient, scalable and secure distributed systems via optimization methods.
 * M.S. in Statistics and Operational Research, University of Edinburgh, 2018 - 2019 
@@ -26,6 +26,6 @@ Teaching Experience
 
 Service
 ======
-* Serving as the editor of the WeChat official account "Operations Research China Society (运筹OR帷幄)". 
+* Serving as the editor of the community "[Operations Research China Society (运筹OR帷幄)](https://www.youtube.com/channel/UCytqifJRR_OCOkpq-FYO3YA)". 
 
   This aims to become the largest Chinese online community for operational research globally. It is currently operated by more than 60 OR-related PhD students, professors, and industry practitioners worldwide. 
