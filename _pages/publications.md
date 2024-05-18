@@ -11,6 +11,8 @@ author_profile: true
 
 {% include base_path %}
 
-{% for post in site.publications reversed %}
+<!--{% for post in site.publications reversed %}
   {% include archive-single.html %}
-{% endfor %}
+{% endfor %}-->
+
+* **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. [A Stochastic Programming Approach for an Enhanced Performance of a Multi-committees Byzantine Fault Tolerant Algorithm](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_20). *European Conference on Parallel and Distributed Computing (Euro-Par 2022)*.
