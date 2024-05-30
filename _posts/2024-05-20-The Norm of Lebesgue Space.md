@@ -79,7 +79,7 @@ You may notice that there is some connection betweeen $\ell^2$ and $L^2$.  Indee
 
 Let $\{\varphi_n\}$ be an orthonormal system in $L^2[a,b]$ and $\{a_n\}$ a sequence of reals. The convergence of the series $\sum a_n^2$ is a necessary and sufficient condition for the existence of a function $f$ such that 
 {% raw %}
-$$\int_a^b f(x) \varphi_n(x) dx = a_n, \quad for every n.$$ 
+$$\int_a^b f(x) \varphi_n(x) dx = a_n, \quad \text{for every } n.$$ 
 {% endraw %}
 
 </blockquote>
