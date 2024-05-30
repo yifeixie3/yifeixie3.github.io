@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yifei Xie"
 title_separator          : "-"
 name                     : "Yifei Xie"
-description              : "Yifei Xie's Homepage"
+description              : "Yifei Xie"
 URL                      : "https://yifeixie3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yifeixie3.github.io"
@@ -108,7 +108,7 @@ staticman:
       options:
         format           : "iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
-  hide                   : false     # change to true to hide the RSS feed in the footer
+  hide                   : true     # change to true to hide the RSS feed in the footer
   path                   : # blank (default) uses feed.xml
 
 
