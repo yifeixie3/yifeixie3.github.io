@@ -90,6 +90,13 @@ More generally, there exists a Hilbert space isomorphism between any separable H
 
 We will continue to discuss the above conclusion in subsequent articles. We need to know some results in functional analysis, such as the fact that the  $L^2$ is a Hilbert space (a complete inner product space); and maximal orthonormal families in an inner-product space, etc. 
 
+<br/>
+<br/>
+
+<h3>Reference:</h3> 
+
+Ciarlet, Philippe G. *Linear and nonlinear functional analysis with applications.* Society for Industrial and Applied Mathematics, 2013.
+
 <!--(Furthermore, once we have the definition of an inner product space, we can describe the angle between functions.)-->
 
 <!--
