@@ -97,10 +97,6 @@ We will continue to discuss the above conclusion in subsequent articles. We need
 
 Ciarlet, Philippe G. *Linear and nonlinear functional analysis with applications.* Society for Industrial and Applied Mathematics, 2013.
 
-<script type="text/javascript"
-    src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.3/MathJax.js?config=TeX-AMS-MML_HTMLorMML">
-</script>
-
 <!--(Furthermore, once we have the definition of an inner product space, we can describe the angle between functions.)-->
 
 <!--
