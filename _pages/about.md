@@ -15,7 +15,7 @@ I intend to pursue my academic and will be seeking postdoctoral positions in the
 
 News
 =====
-* I will present my work at the the 33rd European Conference on Operational Research in Copenhagen. Welcome to meet me offline for research discussions or casual chats!
+I will present my work at the the 33rd European Conference on Operational Research in Copenhagen. Welcome to meet me offline for research discussions or casual chats!
 
 My life
 =====
