@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Yifei Xie"
 title_separator          : "-"
-name                     : &name "Yifei Xie's Homepage"
+name                     : &name "Yifei Xie"
 description              : &description "Yifei Xie's Homepage"
 URL                      : "https://yifeixie3.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
