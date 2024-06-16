@@ -3,7 +3,8 @@ permalink: /
 title: "About me"
 author_profile: true
 redirect_from: 
-  - /about
+  - /about/
+  - /about.html
 ---
 
 I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on building scalable and efficent distributed network via optimization methods. In my research, I have applied various operational research (OR) ideas and methods to optimize parallel distributed consensus network, which is primarily used in blockchain.
