@@ -7,15 +7,17 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on building scalable and efficent distributed network via optimization methods. In my research, I have applied various operational research (OR) ideas and methods to optimize parallel distributed consensus network, which is primarily used in blockchain.
+I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on **building scalable and efficent distributed network via optimization methods**. During my PhD research, I have applied stochastic optimization methods to enhance the peroformance of parallel Byzantine consensus network, which is primarily used in blockchain.
 
-My research interests lie generally in the intersection of OR and AI. I am particularly interested in exploring the use of deep neural network methods to address traditional OR challenges such as inventory control, logistics, and revenue management. Additionally, I am fascinated by the potential integration of blockchain technology with decentralized AI. If you share similar interests or are open to research discussions and potential collaborations, please feel free to contact me.
+My research interests lie primarily in the fields of **OR** and **AI**, where I apply **optimization**, **deep learning**, **reinforcement learning**, and **statistics**. I am particularly focused on **optimization and decision-making under uncertainty**, with applications in distributed networks, supply chain management, multimodal learning, and large language models.
 
-I intend to pursue my academic and will be seeking postdoctoral positions in the near future. 
+I am always open to discussions! If you share similar research interests or would like to explore collaboration opportunities, please feel free to reach out.
+
+I am seeking **postdoctoral positions** to continue my academic journey.
 
 News
 =====
-I will present my work at the the 33rd European Conference on Operational Research in Copenhagen. Welcome to meet me offline for research discussions or casual chats!
+I will present my work at the the 33rd **European Conference on Operational Research** in Copenhagen. Welcome to meet me offline for research discussions or casual chats!
 
 My life
 =====
