@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on **building scalable and efficent distributed network via optimization methods**. During my PhD research, I have applied stochastic optimization methods to enhance the peroformance of parallel Byzantine consensus network, which is primarily used in blockchain.
+I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on **building scalable and efficient distributed network via optimization methods**. For this topic, I have applied stochastic optimization methods to enhance the performance of parallel Byzantine consensus network, which is primarily used in blockchain.
 
 My research interests lie primarily in **OR** and **AI**, leveraging methodologies from **optimization**, **deep learning**, **reinforcement learning**, and **statistics**. I am particularly focused on **optimization and decision-making under uncertainty** in the context of distributed networks, supply chain management, multimodal learning, and large language models.
 
