@@ -15,10 +15,6 @@ I am always open to discussions! If you share similar research interests or woul
 
 I am seeking **postdoctoral positions** to continue my academic journey.
 
-News
-=====
-I will present my work at the the 33rd European Conference on Operational Research in Copenhagen. Welcome to meet me offline for research discussions or casual chats!
-
 My life
 =====
 Besides research, I frequently play badminton and previously served as the captain of the school team during my undergraduate studies. Musically, I enjoy playing the violin (amateur level 10). I have performed multiple times at the university's welcome parties.
