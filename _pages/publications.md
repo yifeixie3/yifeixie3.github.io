@@ -17,6 +17,10 @@ redirect_from:
   {% include archive-single.html %}
 {% endfor %}-->
 
-* **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. [A Stochastic Programming Approach for an Enhanced Performance of a Multi-committees Byzantine Fault Tolerant Algorithm](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_20). *European Conference on Parallel and Distributed Computing (Euro-Par 2022)*.
+* [A Stochastic Programming Approach for an Enhanced Performance of a Multi-committees Byzantine Fault Tolerant Algorithm](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_20). **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *European Conference on Parallel and Distributed Computing (Euro-Par 2022)*.
 
-* **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. *INFORMS Journal on Computing (under review)*.
+* [TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model](https://arxiv.org/abs/2411.12064). Weixian Waylon Li, Yftah Ziser, **Yifei Xie**, Shay B. Cohen, Tiejun Ma (2025). *To appear in ACM SIGKDD 2025*.
+
+* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *Computers and Operations Research (under review)*.
+
+* Optimising View Change for Byzantine Fault Tolerance in Parallel Consensus. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *Computers and Operations Research (under review)*.
