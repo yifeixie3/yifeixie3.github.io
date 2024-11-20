@@ -21,6 +21,6 @@ redirect_from:
 
 * [TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model](https://arxiv.org/abs/2411.12064). Weixian Waylon Li, Yftah Ziser, **Yifei Xie**, Shay B. Cohen, Tiejun Ma. *To appear in ACM SIGKDD 2025*.
 
-* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *Computers and Operations Research (under review)*.
+* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *To be resubmitted to Computers and OR*.
 
 * Optimising View Change for Byzantine Fault Tolerance in Parallel Consensus. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *To be submitted*.
