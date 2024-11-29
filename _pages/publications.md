@@ -24,3 +24,9 @@ redirect_from:
 * A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *To be resubmitted to Computers and OR*.
 
 * Optimising View Change for Byzantine Fault Tolerance in Parallel Consensus. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *To be submitted*.
+
+Working paper
+=====
+* Adaptive Robust Optimization for Trusted Parallel Byzantine Consensus.
+
+* Decentralized Contextual Stochastic Optimization with Linear Objective.
