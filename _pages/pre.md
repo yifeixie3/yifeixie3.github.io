@@ -7,6 +7,10 @@ redirect_from:
   - /talks
 ---
 
+* **Committee Configuration Optimization for Parallel Consensus in Blockchain.**
+
+  INFORMS Annual Meeting. <small>Seattle, WA, Oct 2024</small>
+
 
 * **A Framework for Modelling View Change in Byzantine Fault-Tolerance Network.**
 
