@@ -19,7 +19,7 @@ redirect_from:
 
 * [A Stochastic Programming Approach for an Enhanced Performance of a Multi-committees Byzantine Fault Tolerant Algorithm](https://link.springer.com/chapter/10.1007/978-3-031-31209-0_20). **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *European Conference on Parallel and Distributed Computing (Euro-Par 2022)*.
 
-* [TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model](https://arxiv.org/abs/2411.12064). Weixian Waylon Li, Yftah Ziser, **Yifei Xie**, Shay B. Cohen, Tiejun Ma. *To appear in ACM SIGKDD 2025*.
+* [TSPRank: Bridging Pairwise and Listwise Methods with a Bilinear Travelling Salesman Model](https://arxiv.org/abs/2411.12064). Weixian Waylon Li, Yftah Ziser, **Yifei Xie**, Shay B. Cohen, Tiejun Ma. *ACM SIGKDD 2025*.
 
 * A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. **Yifei Xie**, Btissam Er-Rahmadi, Xiao Chen, Tiejun Ma, Jane Hillston. *To be resubmitted to Computers and OR*.
 
