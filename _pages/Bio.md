@@ -9,7 +9,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in School of Informatics, University of Edinburgh, 2020 - ASAP
+* Ph.D in School of Informatics, University of Edinburgh, 2020 - 2024
   * Supervisor: Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/).
   * Topic: Building efficient, scalable and secure distributed systems via optimization methods.
 * M.S. in Statistics and Operational Research, University of Edinburgh, 2018 - 2019 

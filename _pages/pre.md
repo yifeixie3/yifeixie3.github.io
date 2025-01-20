@@ -7,7 +7,7 @@ redirect_from:
   - /talks
 ---
 
-* **Committee Configuration Optimization for Parallel Consensus in Blockchain.**
+* **Committee Configuration Optimization for Parallel Consensus.**
 
   INFORMS Annual Meeting. <small>Seattle, WA, Oct 2024</small>
 
