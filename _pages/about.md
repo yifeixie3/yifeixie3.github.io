@@ -16,7 +16,7 @@ I am always open to discussions! If you share similar research interests or woul
 I am seeking **postdoctoral positions** to continue my academic journey.
 
 My life
-=====
+-----
 Besides research, I frequently play badminton and previously served as the captain of the school team during my undergraduate studies. Musically, I enjoy playing the violin (amateur level 10). I have performed multiple times at the university's welcome parties.
 
 I am also a football enthusiast and a devoted fan of Real Madrid. Addtionally, I have a interest in chess (though I haven't played for years) and won fifth place in a city-level amateur competition during my childhood.
