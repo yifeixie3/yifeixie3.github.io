@@ -23,9 +23,9 @@ redirect_from:
 
 Under review
 -----
-* A Decentralized Learning Algorithm for Predict-then-Optimize Framework. (Submitted to ICML 2025)
+* A Decentralized Learning Algorithm for Predict-then-Optimize Framework.
 
-* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. (Submitted to Computers and OR)
+* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. 
 
 To be submitted
 -----
@@ -38,4 +38,4 @@ Working paper
 -----
 * FedAdaVR: Enhancing Federated Learning with Adaptive Variance Reduction for Limited Client Availability.
 
-* A Hardware-secure Byzantine Consensus Framework with Optimised Scalable Parallelism.
+* Decentralized Reinforcement Learning Agents with Insights from Neighbors.

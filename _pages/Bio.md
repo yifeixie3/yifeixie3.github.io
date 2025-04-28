@@ -9,9 +9,11 @@ redirect_from:
 
 Education
 -----
-* Ph.D in School of Informatics, University of Edinburgh, 2020 - 2024
+* Ph.D in AI and its Application Institute, University of Edinburgh, 2021 - 2025
   * Supervisor: Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/).
   * Topic: Building efficient, scalable and secure distributed systems via optimization methods.
+* M.ScR in School of Informatics, University of Edinburgh, 2020 - 2021
+  * Topic: Stochatic optimization for parallel Byzantine consensus algorithm.
 * M.S. in Statistics and Operational Research, University of Edinburgh, 2018 - 2019 
   * Thesis: Logistics for orgran retrieval.
 * B.S. in Mathematics (Basic Theory class), Lanzhou University, 2014 - 2018

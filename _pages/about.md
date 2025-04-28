@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on **building scalable and efficient distributed network via optimization methods**. For this topic, I have applied stochastic optimization methods to enhance the performance of parallel Byzantine consensus network, which is primarily used in blockchain.
+I am currently a final-year PhD student at School of Informatics in University of Edinburgh, I am supervised by  Prof. [Tiejun Ma](https://www.research.ed.ac.uk/en/persons/tiejun-ma) and Prof. [Jane Hillston](https://homepages.inf.ed.ac.uk/jeh/). Before that, I completed a BSc in Mathematics at Lanzhou University and an MSc in Statistics and Operational Research at University of Edinburgh. My PhD work focus on **building scalable and efficient distributed network via optimization methods**. For this topic, I have applied optimization methods to enhance the performance of parallel Byzantine consensus network, which is primarily used in **blockchain**.
 
-My research interests lie generally in AI and OR, leveraging methodologies from **optimization**, **deep learning**, **reinforcement learning**, and **statistics**. Specifically, I am focused on **optimization and decision-making under uncertainty** in the context of distributed networks, learning theory, and large language models. And also their applications in operation management and business.
+My research interests lie generally in AI and Operations Research. Specifically, I am focused on **optimization under uncertainty**, **decentralized AI**, federated learning, **reinfocement learning**, learning and optimization in the operations management and business decision making.
 
 I am always open to discussions! If you share similar research interests or would like to explore collaboration opportunities, please feel free to reach out.
 
