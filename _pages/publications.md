@@ -23,7 +23,7 @@ redirect_from:
 
 Under review
 -----
-* A Decentralized Learning Algorithm for Predict-then-Optimize Framework.
+<!--* A Decentralized Learning Algorithm for Predict-then-Optimize Framework.-->
 
 * A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. 
 
