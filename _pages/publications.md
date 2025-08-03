@@ -24,18 +24,18 @@ redirect_from:
 Under review
 -----
 <!--* A Decentralized Learning Algorithm for Predict-then-Optimize Framework.-->
+* FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation.
 
-* A Stochastic Programming-based Performance Optimization Framework for Parallel Consensus Network in Sharding Blockchain. 
+* Stochastic Programming-based Optimization Model for the Committee Configuration of Parallel Consensus in Sharded Blockchain.
 
 To be submitted
 -----
 * Optimizing View Change for Byzantine Fault Tolerance in Parallel Consensus. 
 
-* Adaptive Robust Optimization for Trusted Parallel Byzantine Consensus.
-
 
 Working paper
 -----
-* FedAdaVR: Enhancing Federated Learning with Adaptive Variance Reduction for Limited Client Availability.
 
-* Decentralized Reinforcement Learning Agents with Insights from Neighbors.
+* Adaptive Robust Optimization for Trusted Parallel Byzantine Consensus.
+
+* Decentralized Predict then Optimize.
