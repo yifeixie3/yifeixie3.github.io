@@ -24,9 +24,9 @@ redirect_from:
 Under review
 -----
 <!--* A Decentralized Learning Algorithm for Predict-then-Optimize Framework.-->
-* FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation.
+* [Stochastic Programming-based Optimization Model for the Committee Configuration of Parallel Consensus in Sharded Blockchain](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=5510247).
 
-* Stochastic Programming-based Optimization Model for the Committee Configuration of Parallel Consensus in Sharded Blockchain.
+* FedAdaVR: Adaptive Variance Reduction for Robust Federated Learning under Limited Client Participation.
 
 To be submitted
 -----
