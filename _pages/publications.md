@@ -38,4 +38,4 @@ Working paper
 
 * Adaptive Robust Optimization for Trusted Parallel Byzantine Consensus.
 
-* Decentralized Predict then Optimize.
+<!--* Decentralized Predict then Optimize.-->
