@@ -13,8 +13,6 @@ My research interests lie generally in AI and Operations Research. Specifically,
 
 I am always open to discussions! If you share similar research interests or would like to explore collaboration opportunities, please feel free to reach out.
 
-I am seeking **postdoctoral positions** to continue my academic journey.
-
 My life
 -----
 Besides research, I frequently play badminton and previously served as the captain of the school team during my undergraduate studies. Musically, I enjoy playing the violin (amateur level 10). I have performed multiple times at the university's welcome parties.
